@@ -3,7 +3,7 @@ import { GoogleLogout, GoogleLogin } from '../src/index'
 // import GoogleLogin, { GoogleLogout } from '../dist/google-login'
 // import FontAwesome from 'react-fontawesome';
 
-const clientId = '617246850621-95f9qhmehd380g2df86pjhrqc84n8nij.apps.googleusercontent.com'
+const clientId = '461648624192-tqesb9b9b66gcrn9s5b7djpvs3usabkc.apps.googleusercontent.com'
 
 const success = response => {
   console.log(response) // eslint-disable-line
